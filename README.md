@@ -30,15 +30,18 @@ AI agent and Retrieval-Augmented
 Generation (RAG) to create adaptive 
 timelines reflecting current market trends 
 and user preferences.
+
  •Intelligent Recommendation System: 
 Leverage AI-driven recommendations to 
 suggest optimal career tracks  based on 
 individual inputs.
+
  •Interactive Support Features: Offer real
 time assistance through answer question 
 capabilities, track chat(community), and 
 mentor connections to enhance user 
 decision-making.
+
  • Educational Resource Curation: Deliver 
 curated learning resources, including 
 explore courses, to align user skills with 
