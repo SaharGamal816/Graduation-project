@@ -21,7 +21,7 @@ intelligent, AI-powered guidance platform
 that delivers dynamic, tailored pathways 
 for confident decision-making.
 
-##Objective 
+## Objective 
  The primary objectives of the Smart Path  
 project are to develop an intelligent, user
 centric career guidance system with the 
