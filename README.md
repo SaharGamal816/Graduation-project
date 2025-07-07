@@ -53,9 +53,9 @@ career goals.
 ## The workflow 
 ![Final](https://github.com/user-attachments/assets/8dcc4e74-36e4-4498-a1e9-543430429201)
 
-Frontend : https://github.com/Mohammed-Shaaban-Ali/smartpath-frontend
-Backend : https://github.com/Mohammed-Shaaban-Ali/smartPath-backend
-MObile : https://github.com/Mohammed-Shaaban-Ali/agenthttps://github.com/Abdelghfarsalah/Graduation_project
+Frontend : https://github.com/Mohammed-Shaaban-Ali/smartpath-frontend                    
+Backend : https://github.com/Mohammed-Shaaban-Ali/smartPath-backend                           
+Mobile : https://github.com/Mohammed-Shaaban-Ali/agenthttps://github.com/Abdelghfarsalah/Graduation_project
 
 ## Agentic AI 
 Modern career guidance demands dynamic 
