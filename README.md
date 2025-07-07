@@ -64,4 +64,5 @@ efficiency
  Validates real-time data (DuckDuckGo) for accuracy
  Delivers interactive planning (LLM-Q&A) for 
 personalization  
+
 ![image](https://github.com/user-attachments/assets/cd45014d-0a4c-4fd0-a940-91556b2b8e12)
